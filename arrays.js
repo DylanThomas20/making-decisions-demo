@@ -23,4 +23,4 @@ let stroller = backpack.splice(3,2)
 
 for(let i=0; i < backpack.length; i++){
     console.log(backpack[i])
-}
+}  
